@@ -9,6 +9,14 @@ Live Demo - See the project in action!
 
 https://github.com/user-attachments/assets/fb320d69-c714-4650-9060-f44906dc5846
 
+## Screenshots 
+
+![image](https://github.com/user-attachments/assets/451cb0d4-9ae1-4dd4-b577-7512e13246c9)
+![image](https://github.com/user-attachments/assets/d6a4914e-5a6c-4ec7-a112-6bdfa234ea35)
+![image](https://github.com/user-attachments/assets/03f6bc91-fe59-4adb-b250-4d0af7b1da8c)
+![image](https://github.com/user-attachments/assets/43c9f551-6b97-495d-9359-0b2f7b07d78f)
+![image](https://github.com/user-attachments/assets/d40fcc27-4937-4ac6-8571-854ef10ad33b)
+
 ## 📋 About the Project
 
 This project was developed as part of the **1DV613 Software Development Project** course at Linnaeus University, during the first year of the Web Developer program. The project and documentation were developed over **10 weeks** as a learning exercise in modern web development.
