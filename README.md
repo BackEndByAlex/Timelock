@@ -45,7 +45,7 @@ Timelock is built with three separate services:
 ## Architecture Diagram
 ![image](https://github.com/user-attachments/assets/b57b5ae1-65af-4e36-b396-ed2be13a829f)
 
-## 🛠️ Installation
+## Installation
 
 ### What you need
 - Node.js (version 14 or newer)
@@ -81,7 +81,7 @@ cp .env.example .env
 npm run dev
 ```
 
-## 📱 Current Features
+## Current Features
 
 - User registration and login
 - Email verification with codes
@@ -103,7 +103,7 @@ npm run dev
 - **Input checking** - Validates all user input
 - **Session timeouts** - Automatic logout for security
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run all tests
@@ -114,7 +114,7 @@ cd auth-service && npm test:unit
 cd password-service && npm test:unit
 ```
 
-## 🎯 What I Learned
+## What I Learned
 
 Building Timelock taught me:
 
@@ -157,7 +157,7 @@ Iteration 0-8: From initial design to final implementation
 
 Testing Documentation - Test specifications and reports for each iteration
 
-## 🚀 Future Plans
+## Future Plans
 
 The project will continue to evolve with planned features:
 
@@ -169,7 +169,7 @@ The project will continue to evolve with planned features:
 - Improved password analysis
 - Design improvements
 
-## 🔄 Project Status
+## Project Status
 
 - **Current version:** 1.0 (Course completion)
 - **Development time:** 10 weeks (April-May 2025)
