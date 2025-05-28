@@ -146,7 +146,7 @@ Building Timelock taught me:
 Detailed project documentation is available in the project wiki, including:
 
 - Gitlab: [project wiki](https://gitlab.lnu.se/1dv613/student/aa227wr/project/-/wikis/home)
-- Github: [project wiki](https://github.com/BackEndByAlex/frontend-app/wiki)
+- Github: [project wiki](https://github.com/BackEndByAlex/Timelock/wiki)
 
 Project Planning & Analysis
 
