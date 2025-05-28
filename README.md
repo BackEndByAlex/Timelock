@@ -7,7 +7,7 @@ A password management application built with microservice architecture, develope
 Live Demo - See the project in action!  
 🌐 **Deployed at:** [timelock.se](https://timelock.se)
 
-https://github.com/user-attachments/assets/bfa42c2d-79cb-432f-bbe2-f5ece7fc2a18
+https://github.com/user-attachments/assets/fb320d69-c714-4650-9060-f44906dc5846
 
 ## 📋 About the Project
 
