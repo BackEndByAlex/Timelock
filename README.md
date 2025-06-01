@@ -73,8 +73,10 @@ docker-compose up -d
 ### Manual setup
 ```bash
 # Download the code
-git clone https://github.com/BackEndByAlex/Timelock.git
-cd Timelock
+git clone git@github.com:BackEndByAlex/frontend-app.git
+git clone git@github.com:BackEndByAlex/auth-service.git
+git clone git@github.com:BackEndByAlex/password-service.git
+cd ...
 
 # Install packages for each part
 cd frontend-app && npm install
@@ -82,9 +84,12 @@ cd ../auth-service && npm install
 cd ../password-service && npm install
 
 # Set up environment variables
-cp .env.example .env
+cp .env
 # Edit .env with your settings
-
+# Additionaly create public and private .pem
+Auth-service has generateRSA.js uset to create with .pem
+Add public for frontend-app and password-service
+DO NOT COMMIT OR EXPOSE THEM! USE THEM ONLY LOCAL!
 # Start the application
 npm run dev
 ```
