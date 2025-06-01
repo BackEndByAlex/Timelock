@@ -15,7 +15,6 @@ https://github.com/user-attachments/assets/fb320d69-c714-4650-9060-f44906dc5846
 ![image](https://github.com/user-attachments/assets/d6a4914e-5a6c-4ec7-a112-6bdfa234ea35)
 ![image](https://github.com/user-attachments/assets/03f6bc91-fe59-4adb-b250-4d0af7b1da8c)
 ![image](https://github.com/user-attachments/assets/43c9f551-6b97-495d-9359-0b2f7b07d78f)
-![image](https://github.com/user-attachments/assets/d40fcc27-4937-4ac6-8571-854ef10ad33b)
 
 ## 📋 About the Project
 
